@@ -1,0 +1,23 @@
+/*
+Theme Name: Naked Skeleton
+Text Domain: naked-skeleton
+Version: 2023-03-02
+Description: A bare bones, full site editing theme for teaching WordPress theme creation to students.
+Author: Drake Gómez
+Author URI: 
+Update URI: false
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+*/
+
+body {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    }

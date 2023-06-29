@@ -1,0 +1,2 @@
+# naked skeleton
+ a repository for the Naked Skeleton block theme for WordPress
