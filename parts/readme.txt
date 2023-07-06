@@ -1,0 +1,1 @@
+Parts directory for any template parts added to theme.
