@@ -5,3 +5,5 @@
 
  //Require patterns.php file
  require get_template_directory() . '/inc/patterns.php';
+
+ 
